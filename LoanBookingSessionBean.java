@@ -34,4 +34,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+Hi
+This is renny from london
+adl-vadapalani
